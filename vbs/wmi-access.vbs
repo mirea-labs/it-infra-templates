@@ -43,11 +43,11 @@ Set objWMIService = GetObject("winmgmts:" _
     & "{impersonationLevel=impersonate}!\\" & strComputer & "\root\cimv2")
 	
 ' Оборудование	
-'ListHardware
+ListHardware
 
 'Сетевые папки
 ListSharedFolders
 
 'Установленные приложения
-'ListSoftware
+ListSoftware
 
