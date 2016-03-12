@@ -7,11 +7,13 @@ Sub ListHardware()
 		Wscript.Echo "NumbersOfProcessors" & objItem.NumberOfProcessors
 		Wscript.Echo "TotalPhysicalMemory"& objItem.TotalPhysicalMemory
 		Wscript.Echo "Name" & objItem.Name
-		Wscript.Echo ""
-		
-		
-
-	Next
+	
+			Next
+	Set colItems = objWMIService.ExecQuery("Select * from Win32_DiskDrive")
+	For Each objItem in colItems
+		Wscript.Echo "Size" & objItem.Size
+		Wscript.Echo "FreeSpace" & objItem.FreeSpace
+		Next
 End Sub
 '-------------------------------------------------------------------------------
 
