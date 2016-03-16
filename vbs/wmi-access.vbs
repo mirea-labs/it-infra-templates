@@ -1,53 +1,81 @@
+Set objWMIService = GetObject("winmgmts:{impersonationLevel=impersonate}!\\.\root\CIMV2")
 
-Dim objWMIService
+For Each objMoth In objWMIService.ExecQuery("SELECT * FROM Win32_MotherboardDevice")
+	PC_Name = objMoth.SystemName
+Next
 
-Sub ListHardware()
-	Set colItems = objWMIService.ExecQuery("Select * from Win32_PnPEntity")
+set FSO = CreateObject("Scripting.FileSystemObject")
+If FSO.FileExists(PC_Name & ".txt") Then 
+	Set file = FSO.GetFile(PC_Name & ".txt")
+	File.Delete
+End If
+set File = FSO.OpenTextFile(PC_Name & ".txt", 8, True)
 
-	For Each objItem in colItems
-		Wscript.Echo "Description: " & objItem.Description
-		Wscript.Echo "Manufacturer: " & objItem.Manufacturer
-		Wscript.Echo "Name: " & objItem.Name
-		Wscript.Echo "Status: " & objItem.Status
-		Wscript.Echo
-	Next
-End Sub
-
-Sub ListSharedFolders
-	Set colItems = objWMIService.ExecQuery("Select * from Win32_Share WHERE Type = 0")
-
-	For Each objItem in colItems
-		Wscript.Echo "Name: " & objItem.Name
-		Wscript.Echo "Path: " & objItem.Path
-		Wscript.Echo "Type: " & objItem.Type
-		Wscript.Echo
-	Next
-End Sub
-
-Sub ListSoftware
-	Set colItems = objWMIService.ExecQuery("Select Name, Caption, Vendor, Version from Win32_Product")
-
-	For Each objItem in colItems
-		Wscript.Echo "Name: " & objItem.Name
-		Wscript.Echo "Caption: " & objItem.Caption
-		Wscript.Echo "Vendor: " & objItem.Vendor
-		Wscript.Echo "Version: " & objItem.Version
-		Wscript.Echo
-	Next
-End Sub
-
-'-------------------------------------------------------------------------------
-
-strComputer = "."
-Set objWMIService = GetObject("winmgmts:" _
-    & "{impersonationLevel=impersonate}!\\" & strComputer & "\root\cimv2")
+i=0
 	
-' РћР±РѕСЂСѓРґРѕРІР°РЅРёРµ	
-ListHardware
+'dim text
+For Each objProc In objWMIService.ExecQuery("SELECT * FROM Win32_Processor")
+	i=i+1
+Next
+Print "Краткая сводка:" & vbCrlf & vbCrlf
+Print "Кол-во процессоров - " & i
 
-'РЎРµС‚РµРІС‹Рµ РїР°РїРєРё
-ListSharedFolders
+i=0
+For Each objPhMem In objWMIService.ExecQuery("SELECT * FROM Win32_PhysicalMemory")
+	i = i+ objPhMem.Capacity/1024/1024
+Next
+Print vbCrlf & "Объем оперативной памяти - " & i & " Мегабайт"
 
-'РЈСЃС‚Р°РЅРѕРІР»РµРЅРЅС‹Рµ РїСЂРёР»РѕР¶РµРЅРёСЏ
-ListSoftware
+Print vbCrlf & "Сетевое имя машины - " & PC_Name
 
+For Each objItem in objWMIService.ExecQuery("SELECT * FROM Win32_OperatingSystem",,48) 
+	Print vbCrlf & "Версия ОС - " & objItem.Caption & " " & objItem.OSArchitecture
+Next
+
+i=0
+For Each objDisk In objWMIService.ExecQuery("SELECT * FROM Win32_DiskDrive")
+	if Not objDisk.Size = "" Then i = i + objDisk.Size
+Next
+i = i/1024/1024/1024
+Print vbCrlf & "Полный объем жестких дисков - " & i & " Гигабайт"
+
+i=0
+For Each objDisk In objWMIService.ExecQuery ("Select * From Win32_LogicalDisk")
+	if Not objDisk.Size = "" Then i = i + objDisk.FreeSpace
+Next
+i = i/1024/1024/1024
+Print vbCrlf & "Свободный объем жестких дисков - " & i & " Гигабайт" & vbCrlf & "###########################################################################################################" & vbCrlf & "Оборудование:" & vbCrlf
+
+For Each objItem in objWMIService.ExecQuery("Select * from Win32_PnPEntity")
+	Print vbCrlf & "Описание: " & objItem.Description
+	Print vbCrlf & "Производитель: " & objItem.Manufacturer
+	Print vbCrlf & "Имя: " & objItem.Name
+	Print vbCrlf & "Статус: " & objItem.Status & vbCrlf
+Next
+Print "###########################################################################################################" & vbCrlf & "Ресурсы:" & vbCrlf
+
+For Each objItem in objWMIService.ExecQuery("Select * from Win32_Share where type<>1")
+	Print vbCrlf & objItem.Caption & " " & objItem.Name
+Next
+Print vbCrlf
+For Each objItem in objWMIService.ExecQuery("Select * from Win32_Share where type=1")
+	Print vbCrlf & objItem.Caption & " " & objItem.Name
+Next
+
+Print "###########################################################################################################" & vbCrlf & "Программное обеспечение:" & vbCrlf
+For Each objItem in objWMIService.ExecQuery("Select * from Win32_Product")
+	Print vbCrlf & objItem.Name & objItem.Version
+Next
+
+Sub Print(text)
+	'WScript.Echo text
+	File.Write(text)
+End Sub
+
+'Сохраняем файл
+
+ 
+
+File.Close
+
+MsgBox("Готово!")
