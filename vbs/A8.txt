@@ -1,0 +1,690 @@
+Краткая сводка:
+
+Число процессоров - 1
+Объем оперативной памяти - 2048 Мегабайт
+Сетевое имя машины - A8
+Версия ОС - Майкрософт Windows 8.1 Профессиональная 32-разрядная
+Полный объем жесткого диска - 232,883484363556 Гигабайт
+Свободный объем жесткого диска - 178,851295471191 Гигабайт
+
+Оборудование:
+
+Description: Системная плата
+Manufacturer: (Стандартные системные устройства)
+Name: Системная плата
+Status: 
+
+Description: Системная плата
+Manufacturer: (Стандартные системные устройства)
+Name: Системная плата
+Status: 
+
+Description: Ресурсы системной платы
+Manufacturer: (Стандартные системные устройства)
+Name: Ресурсы системной платы
+Status: 
+
+Description: Ресурсы системной платы
+Manufacturer: (Стандартные системные устройства)
+Name: Ресурсы системной платы
+Status: 
+
+Description: Стандартный контроллер гибких дисков
+Manufacturer: (Стандартные контроллеры гибких дисков)
+Name: Стандартный контроллер гибких дисков
+Status: OK
+
+Description: Канал IDE
+Manufacturer: (Стандартные IDE ATA/ATAPI контроллеры)
+Name: ATA Channel 0
+Status: OK
+
+Description: Канал IDE
+Manufacturer: (Стандартные IDE ATA/ATAPI контроллеры)
+Name: ATA Channel 1
+Status: OK
+
+Description: Высокоточный таймер событий
+Manufacturer: (Стандартные системные устройства)
+Name: Высокоточный таймер событий
+Status: 
+
+Description: Локальная очередь печати
+Manufacturer: Microsoft
+Name: Корневая очередь печати
+Status: OK
+
+Description: Расширенный хост-контроллер USB для семейства Intel(R) ICH10 - 3A3C
+Manufacturer: Intel
+Name: Расширенный хост-контроллер USB для семейства Intel(R) ICH10 - 3A3C
+Status: OK
+
+Description: Диспетчер томов
+Manufacturer: Microsoft
+Name: Диспетчер томов
+Status: OK
+
+Description: Контроллер SMBus семейства Intel(R) ICH10 - 3A30
+Manufacturer: Intel
+Name: Контроллер SMBus семейства Intel(R) ICH10 - 3A30
+Status: 
+
+Description: CMOS и часы
+Manufacturer: (Стандартные системные устройства)
+Name: CMOS и часы
+Status: OK
+
+Description: USB-устройство ввода
+Manufacturer: (Стандартные системные устройства)
+Name: USB-устройство ввода
+Status: OK
+
+Description: Базовый видеодрайвер (Майкрософт)
+Manufacturer: (Стандартные типы дисплеев)
+Name: Базовый видеодрайвер (Майкрософт)
+Status: OK
+
+Description: Универсальный хост-контроллер USB для семейства Intel(R) ICH10 - 3A38
+Manufacturer: Intel
+Name: Универсальный хост-контроллер USB для семейства Intel(R) ICH10 - 3A38
+Status: OK
+
+Description: Программируемый контроллер прерываний
+Manufacturer: (Стандартные системные устройства)
+Name: Программируемый контроллер прерываний
+Status: 
+
+Description: Стандартная клавиатура PS/2
+Manufacturer: (Стандартные клавиатуры)
+Name: Стандартная клавиатура PS/2
+Status: OK
+
+Description: Универсальное программное устройство
+Manufacturer: Майкрософт
+Name: Шина адаптера IPv4 IPv6 (Майкрософт)
+Status: OK
+
+Description: Корневой USB-концентратор
+Manufacturer: (Стандартный USB хост-контроллер)
+Name: Корневой USB-концентратор
+Status: OK
+
+Description: UMBus перечислитель
+Manufacturer: Microsoft
+Name: UMBus перечислитель
+Status: OK
+
+Description: Конечная точка Audio
+Manufacturer: Майкрософт
+Name: Микрофон (3- Устройство с поддержкой High Definition Audio)
+Status: OK
+
+Description: Корневой порт PCI Express 6 семейства Intel(R) ICH10 - 3A4A
+Manufacturer: Intel
+Name: Корневой порт PCI Express 6 семейства Intel(R) ICH10 - 3A4A
+Status: OK
+
+Description: ATK0110 ACPI UTILITY
+Manufacturer: ATK
+Name: ATK0110 ACPI UTILITY
+Status: OK
+
+Description: Корневой USB-концентратор
+Manufacturer: (Стандартный USB хост-контроллер)
+Name: Корневой USB-концентратор
+Status: OK
+
+Description: Корневой USB-концентратор
+Manufacturer: (Стандартный USB хост-контроллер)
+Name: Корневой USB-концентратор
+Status: OK
+
+Description: Универсальный хост-контроллер USB для семейства Intel(R) ICH10 - 3A35
+Manufacturer: Intel
+Name: Универсальный хост-контроллер USB для семейства Intel(R) ICH10 - 3A35
+Status: OK
+
+Description: Перечислитель композитной шины
+Manufacturer: Microsoft
+Name: Перечислитель композитной шины
+Status: OK
+
+Description: Перечислитель виртуальных дисков (Майкрософт)
+Manufacturer: Microsoft
+Name: Перечислитель виртуальных дисков (Майкрософт)
+Status: OK
+
+Description: Контроллер прямого доступа к памяти
+Manufacturer: (Стандартные системные устройства)
+Name: Контроллер прямого доступа к памяти
+Status: 
+
+Description: Универсальный монитор PnP
+Manufacturer: (Стандартные мониторы)
+Name: Универсальный монитор PnP
+Status: OK
+
+Description: Корневой USB-концентратор
+Manufacturer: (Стандартный USB хост-контроллер)
+Name: Корневой USB-концентратор
+Status: OK
+
+Description: Контроллер дискового пространства (Майкрософт)
+Manufacturer: Microsoft
+Name: Контроллер дискового пространства (Майкрософт)
+Status: OK
+
+Description: Корневой USB-концентратор
+Manufacturer: (Стандартный USB хост-контроллер)
+Name: Корневой USB-концентратор
+Status: OK
+
+Description: Последовательный порт
+Manufacturer: (Стандартные порты)
+Name: Последовательный порт (COM1)
+Status: OK
+
+Description: Сетевой адаптер с отладкой ядра (Майкрософт)
+Manufacturer: Microsoft
+Name: Сетевой адаптер с отладкой ядра (Майкрософт)
+Status: OK
+
+Description: Контроллер LPC-интерфейса Intel(R) ICH10 - 3A18
+Manufacturer: Intel
+Name: Контроллер LPC-интерфейса Intel(R) ICH10 - 3A18
+Status: OK
+
+Description: Универсальная теневая копия тома
+Manufacturer: Microsoft
+Name: Универсальная теневая копия тома
+Status: OK
+
+Description: Универсальная теневая копия тома
+Manufacturer: Microsoft
+Name: Универсальная теневая копия тома
+Status: OK
+
+Description: Универсальная теневая копия тома
+Manufacturer: Microsoft
+Name: Универсальная теневая копия тома
+Status: OK
+
+Description: Универсальная теневая копия тома
+Manufacturer: Microsoft
+Name: Универсальная теневая копия тома
+Status: OK
+
+Description: VirtualBox Bridged Networking Driver Miniport
+Manufacturer: Oracle Corporation
+Name: Контроллер семейства Realtek PCIe GBE - VirtualBox Bridged Networking Driver Miniport
+Status: OK
+
+Description: Корневой USB-концентратор
+Manufacturer: (Стандартный USB хост-контроллер)
+Name: Корневой USB-концентратор
+Status: OK
+
+Description: Intel(R) G45/G43 Express Chipset (Microsoft Corporation - WDDM 1.1)
+Manufacturer: Intel Corporation
+Name: Intel(R) G45/G43 Express Chipset (Microsoft Corporation - WDDM 1.1)
+Status: OK
+
+Description: Дисковый накопитель
+Manufacturer: (Стандартные дисковые накопители)
+Name: ST3250318AS ATA Device
+Status: OK
+
+Description: UMBus перечислитель корневой шины
+Manufacturer: Microsoft
+Name: UMBus перечислитель корневой шины
+Status: OK
+
+Description: Арифметический сопроцессор
+Manufacturer: (Стандартные системные устройства)
+Name: Арифметический сопроцессор
+Status: 
+
+Description: Канал IDE
+Manufacturer: (Стандартные IDE ATA/ATAPI контроллеры)
+Name: ATA Channel 0
+Status: OK
+
+Description: Канал IDE
+Manufacturer: (Стандартные IDE ATA/ATAPI контроллеры)
+Name: ATA Channel 1
+Status: OK
+
+Description: Стандартный двухканальный контроллер PCI IDE
+Manufacturer: (Стандартные IDE ATA/ATAPI контроллеры)
+Name: Стандартный двухканальный контроллер PCI IDE
+Status: OK
+
+Description: Контроллер Intel(R) 4 Series Chipset Processor to I/O - 2E20
+Manufacturer: Intel
+Name: Контроллер Intel(R) 4 Series Chipset Processor to I/O - 2E20
+Status: OK
+
+Description: CD-ROM дисковод
+Manufacturer: (Стандартные устройства чтения CD)
+Name: Optiarc DVD RW AD-5260S ATA Device
+Status: OK
+
+Description: Универсальное программное устройство
+Manufacturer: Майкрософт
+Name: Microsoft Device Association Root Enumerator
+Status: OK
+
+Description: ACPI x86-based PC
+Manufacturer: (Стандартные компьютеры)
+Name: ACPI x86-based PC
+Status: OK
+
+Description: PCI Express Root Complex
+Manufacturer: (Стандартные системные устройства)
+Name: PCI Express Root Complex
+Status: OK
+
+Description: Универсальный хост-контроллер USB для семейства Intel(R) ICH10 - 3A37
+Manufacturer: Intel
+Name: Универсальный хост-контроллер USB для семейства Intel(R) ICH10 - 3A37
+Status: OK
+
+Description: Корневой порт PCI Express 1 семейства Intel(R) ICH10 - 3A40
+Manufacturer: Intel
+Name: Корневой порт PCI Express 1 семейства Intel(R) ICH10 - 3A40
+Status: OK
+
+Description: Microsoft ACPI-совместимая система
+Manufacturer: Microsoft
+Name: Microsoft ACPI-совместимая система
+Status: OK
+
+Description: 
+Manufacturer: 
+Name: 
+Status: OK
+
+Description: Базовый драйвер отрисовки (Майкрософт)
+Manufacturer: Microsoft
+Name: Базовый драйвер отрисовки (Майкрософт)
+Status: OK
+
+Description: Корневой порт PCI Express 5 семейства Intel(R) ICH10 - 3A48
+Manufacturer: Intel
+Name: Корневой порт PCI Express 5 семейства Intel(R) ICH10 - 3A48
+Status: OK
+
+Description: HID-совместимая мышь
+Manufacturer: Microsoft
+Name: HID-совместимая мышь
+Status: OK
+
+Description: Intel(R) 82801 PCI мост - 244E
+Manufacturer: Intel
+Name: Intel(R) 82801 PCI мост - 244E
+Status: OK
+
+Description: Встроенный динамик
+Manufacturer: (Стандартные системные устройства)
+Name: Встроенный динамик
+Status: 
+
+Description: Intel(R) 82802 Firmware концентратор
+Manufacturer: Intel
+Name: Intel(R) 82802 Firmware концентратор
+Status: 
+
+Description: Дисковод
+Manufacturer: (Стандартные дисководы гибких дисков)
+Name: Дисковод
+Status: OK
+
+Description: Логический интерфейс порта принтера
+Manufacturer: (Стандартные системные устройства)
+Name: Логический интерфейс порта принтера
+Status: OK
+
+Description: Конечная точка Audio
+Manufacturer: Майкрософт
+Name: Микрофон (3- Устройство с поддержкой High Definition Audio)
+Status: OK
+
+Description: Универсальный хост-контроллер USB для семейства Intel(R) ICH10 - 3A34
+Manufacturer: Intel
+Name: Универсальный хост-контроллер USB для семейства Intel(R) ICH10 - 3A34
+Status: OK
+
+Description: Фиксированная функциональная кнопка ACPI
+Manufacturer: (Стандартные системные устройства)
+Name: Фиксированная функциональная кнопка ACPI
+Status: OK
+
+Description: Inventec PCIe GBE Family Controller
+Manufacturer: Inventec
+Name: Inventec PCIe GBE Family Controller
+Status: OK
+
+Description: Ресурсы системной платы
+Manufacturer: (Стандартные системные устройства)
+Name: Ресурсы системной платы
+Status: 
+
+Description: Ресурсы системной платы
+Manufacturer: (Стандартные системные устройства)
+Name: Ресурсы системной платы
+Status: 
+
+Description: Ресурсы системной платы
+Manufacturer: (Стандартные системные устройства)
+Name: Ресурсы системной платы
+Status: 
+
+Description: Стандартный двухканальный контроллер PCI IDE
+Manufacturer: (Стандартные IDE ATA/ATAPI контроллеры)
+Name: Стандартный двухканальный контроллер PCI IDE
+Status: OK
+
+Description: Системный таймер
+Manufacturer: (Стандартные системные устройства)
+Name: Системный таймер
+Status: 
+
+Description: Корневой USB-концентратор
+Manufacturer: (Стандартный USB хост-контроллер)
+Name: Корневой USB-концентратор
+Status: OK
+
+Description: Microsoft Visual Studio Location Simulator Sensor
+Manufacturer: Microsoft Corporation
+Name: Microsoft Visual Studio Location Simulator Sensor
+Status: OK
+
+Description: Intel(R) G45/G43 Express Chipset (Microsoft Corporation - WDDM 1.1)
+Manufacturer: Intel Corporation
+Name: Intel(R) G45/G43 Express Chipset (Microsoft Corporation - WDDM 1.1)
+Status: OK
+
+Description: Универсальный том
+Manufacturer: Microsoft
+Name: Универсальный том
+Status: OK
+
+Description: Канал IDE
+Manufacturer: (Стандартные IDE ATA/ATAPI контроллеры)
+Name: ATA Channel 0
+Status: OK
+
+Description: Канал IDE
+Manufacturer: (Стандартные IDE ATA/ATAPI контроллеры)
+Name: ATA Channel 1
+Status: OK
+
+Description: Кнопка питания ACPI
+Manufacturer: (Стандартные системные устройства)
+Name: Кнопка питания ACPI
+Status: OK
+
+Description: Конечная точка Audio
+Manufacturer: Майкрософт
+Name: Цифровое аудио (S/PDIF) (3- Устройство с поддержкой High Definition Audio)
+Status: OK
+
+Description: Универсальный хост-контроллер USB для семейства Intel(R) ICH10 - 3A39
+Manufacturer: Intel
+Name: Универсальный хост-контроллер USB для семейства Intel(R) ICH10 - 3A39
+Status: OK
+
+Description: Корневой USB-концентратор
+Manufacturer: (Стандартный USB хост-контроллер)
+Name: Корневой USB-концентратор
+Status: OK
+
+Description: Перечислитель виртуальных сетевых адаптеров NDIS
+Manufacturer: Microsoft
+Name: Перечислитель виртуальных сетевых адаптеров NDIS
+Status: OK
+
+Description: Расширенный хост-контроллер USB для семейства Intel(R) ICH10 - 3A3A
+Manufacturer: Intel
+Name: Расширенный хост-контроллер USB для семейства Intel(R) ICH10 - 3A3A
+Status: OK
+
+Description: Intel процессор
+Manufacturer: Intel
+Name: Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz
+Status: OK
+
+Description: Intel процессор
+Manufacturer: Intel
+Name: Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz
+Status: OK
+
+Description: ECP-порт принтера
+Manufacturer: (Стандартные порты)
+Name: ECP-порт принтера (LPT1)
+Status: OK
+
+Description: Универсальный том
+Manufacturer: Microsoft
+Name: Универсальный том
+Status: OK
+
+Description: Универсальный хост-контроллер USB для семейства Intel(R) ICH10 - 3A36
+Manufacturer: Intel
+Name: Универсальный хост-контроллер USB для семейства Intel(R) ICH10 - 3A36
+Status: OK
+
+Description: Подключение сетевого принтера
+Manufacturer: HP
+Name: \\server214\HP LaserJet P2050 Series PCL6
+Status: OK
+
+Description: Локальная очередь печати
+Manufacturer: Microsoft
+Name: Fax
+Status: OK
+
+Description: Драйвер Microsoft System Management BIOS
+Manufacturer: (Стандартные системные устройства)
+Name: Драйвер Microsoft System Management BIOS
+Status: OK
+
+Description: Локальная очередь печати
+Manufacturer: Microsoft
+Name: Microsoft XPS Document Writer
+Status: OK
+
+Description: Контроллер High Definition Audio (Microsoft)
+Manufacturer: Microsoft
+Name: Контроллер High Definition Audio (Microsoft)
+Status: OK
+
+Description: Устройство с поддержкой High Definition Audio
+Manufacturer: Microsoft
+Name: Устройство с поддержкой High Definition Audio
+Status: OK
+
+Description: Перечислитель программных устройств Plug and Play
+Manufacturer: (Стандартные системные устройства)
+Name: Перечислитель программных устройств Plug and Play
+Status: OK
+
+Description: Шина перенаправителя устройств удаленных рабочих столов
+Manufacturer: Microsoft
+Name: Шина перенаправителя устройств удаленных рабочих столов
+Status: OK
+
+Description: Конечная точка Audio
+Manufacturer: Майкрософт
+Name: Лин. вход (3- Устройство с поддержкой High Definition Audio)
+Status: OK
+
+Description: Стандартный двухканальный контроллер PCI IDE
+Manufacturer: (Стандартные IDE ATA/ATAPI контроллеры)
+Name: Стандартный двухканальный контроллер PCI IDE
+Status: OK
+
+Ресурсы:
+
+Удаленный Admin ADMIN$
+Стандартный общий ресурс C$
+Стандартный общий ресурс E$
+Удаленный IPC IPC$
+OpenServer OpenServer
+Драйверы принтеров print$
+
+Программное обеспечение:
+
+Microsoft Office Standard 200712.0.6612.1000
+Microsoft Office 2003 Web Components12.0.6213.1000
+Microsoft Office Access 200712.0.6612.1000
+Microsoft Office Access MUI (Russian) 200712.0.6612.1000
+Microsoft Office Excel MUI (Russian) 200712.0.6612.1000
+Microsoft Office PowerPoint MUI (Russian) 200712.0.6612.1000
+Microsoft Office Outlook MUI (Russian) 200712.0.6612.1000
+Microsoft Office Word MUI (Russian) 200712.0.6612.1000
+Microsoft Office Proofing (Russian) 200712.0.4518.1022
+Microsoft Office Shared MUI (Russian) 200712.0.6612.1000
+Microsoft Office Proof (Ukrainian) 200712.0.6612.1000
+Microsoft Office Proof (German) 200712.0.6612.1000
+Microsoft Office Proof (English) 200712.0.6612.1000
+Microsoft Office Proof (Russian) 200712.0.6612.1000
+Microsoft Application Error Reporting12.0.6012.5000
+Microsoft Office Visio MUI (Russian) 201014.0.7015.1000
+Microsoft Office File Validation Add-In14.0.5130.5003
+Microsoft Office Proofing (Russian) 201014.0.7015.1000
+Microsoft Office Shared MUI (Russian) 201014.0.7015.1000
+Microsoft Office Proof (Ukrainian) 201014.0.7015.1000
+Microsoft Office Proof (German) 201014.0.7015.1000
+Microsoft Office Proof (English) 201014.0.7015.1000
+Microsoft Office Proof (Russian) 201014.0.7015.1000
+Microsoft Office Visio 201014.0.7015.1000
+Microsoft Visual Studio Ultimate 2012 XAML UI Designer Core11.0.50727
+Языковой пакет для раскадровки Microsoft Visual Studio Team Foundation Server 2012 - RUS11.0.50727
+Skype™ 7.37.3.101
+Microsoft Visual Studio Tools for Applications 2.0 Language Pack - RUS9.0.30729
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.4021910.0.40219
+Microsoft Visual Studio Premium 201211.0.50727
+Microsoft SQL Server 2008 Reporting Services10.3.5500.0
+Microsoft SQL Server 2008 Full text search10.3.5500.0
+WCF Data Services Tools for Visual Studio 11 RUS Language Pack5.0.50710.0
+Microsoft SQL Server 2008 Common Files10.3.5500.0
+Microsoft Visual C++ 2012 Compilers11.0.50727
+Microsoft SQL Server 2008 Database Engine Services10.3.5500.0
+Microsoft Visual C++ 2012 x86 Debug Runtime - 11.0.5072711.0.50727
+Mathcad 1313.1.3.0
+Ресурсы оболочки Microsoft Visual Studio 2012 Shell (минимальной)11.0.50727
+Microsoft Visual Studio Team Foundation Server 2012 Team Explorer11.0.50727
+Microsoft .NET Framework 4.5 Multi-Targeting Pack4.5.50709
+Microsoft Visual Studio 2010 Tools for Office Runtime (x86)10.0.50908
+Microsoft Visual Studio Ultimate 201211.0.50727
+Microsoft SQL Server VSS Writer10.3.5500.0
+Языковой пакет для объектной модели Microsoft Visual Studio Team Foundation Server 2012 - RUS11.0.50727
+Microsoft SQL Server 2008 Policies10.3.5500.0
+Microsoft Visual Studio 2012 IntelliTrace Core x8611.0.50727
+Microsoft Portable Library Multi-Targeting Pack11.0.50709.17929
+Java 8 Update 738.0.730.2
+PreEmptive Analytics Client Russian Language Pack1.0.2180.1
+Adem 8.1 CAD/CAM/CAPP8.1.0115
+Microsoft SQL Server 2008 Reporting Services10.0.1600.22
+Microsoft SQL Server 2008 Native Client10.3.5500.0
+Средства сбора данных о производительности Microsoft Visual Studio 201211.0.50727
+Microsoft Visual Studio Professional 2012 - RUS11.0.50727
+MSXML 4.0 SP2 Parser and SDK4.20.9818.0
+Microsoft Visual Studio 2012 IntelliTraceFrontEndLoc11.0.50727
+Microsoft Sync Framework Runtime v1.0 (x86) ru1.0.1215.0
+Windows Software Development Kit for Windows Store Apps DirectX x86 Remote8.59.25584
+ Tools for .Net 3.53.11.50727
+Microsoft Sync Services for ADO.NET v2.0 (x86) ru2.0.1215.0
+CA AllFusion ERwin Data Modeler r77.001.1303
+Adobe Refresh Manager1.8.0
+Adobe Acrobat Reader DC - Russian15.010.20056
+Microsoft SQL Server 2008 Database Engine Shared10.3.5500.0
+Microsoft Report Viewer Add-On для Visual Studio 201211.1.2802.16
+Microsoft SQL Server 2012 Management Objects 11.0.2100.60
+Oracle VM VirtualBox 4.3.64.3.6
+Dotfuscator and Analytics Community Edition5.5.4521.29298
+LocalESPCui for ru-ru8.59.25584
+Microsoft SQL Server 2008 Database Engine Shared10.3.5500.0
+CA AllFusion Process Modeler r77.001.1258
+Windows Software Development Kit DirectX x86 Remote8.59.25584
+Языковой пакет для Microsoft Visual Studio Team Foundation Server 2012 Team Explorer - RUS11.0.50727
+Ресурсы Microsoft Visual Studio 2012 Devenv11.0.50727
+Microsoft SQL Server 2008 Browser10.3.5500.0
+Языковой пакет для средства просмотра справки (Microsoft) 2.0 - RUS2.0.50727
+Microsoft Visual Studio 2012 Devenv11.0.50727
+Microsoft .NET Framework 4 Multi-Targeting Pack4.0.30319
+Microsoft Visual Studio Professional 201211.0.50727
+КОМПАС-3D LT V1212.0.1
+Microsoft System CLR Types для SQL Server 201211.0.2100.60
+Windows Runtime Intellisense Content - ru-ru8.59.25584
+Microsoft SQL Server 2008 Common Files10.3.5500.0
+Microsoft .NET Framework 4.5 SDK4.5.50709
+Google Update Helper1.3.25.11
+Microsoft SQL Server Compact 4.0 SP1 RUS4.0.8876.1
+WCF RIA Services V1.0 SP24.1.61829.0
+Google Update Helper1.3.29.5
+LocalESPC8.59.25584
+Microsoft Visual C++ 2012 Core Libraries11.0.50727
+Подготовка Microsoft Visual Studio 201211.0.50727
+Windows Software Development Kit8.59.25584
+Средства Microsoft Visual Studio 2012 с пакетом обновления 1 (SP1) для SQL Server Compact 4.0 RUS4.0.8876.1
+Microsoft Report Viewer Add-On for Visual Studio 201211.1.2802.16
+Microsoft Visual Studio 2012 Shell (Minimum) Interop Assemblies11.0.50727
+Microsoft SQL Server 2008 Integration Services10.3.5500.0
+Windows App Certification Kit x868.59.25584
+Microsoft SQL Server 2012 Express LocalDB 11.0.2100.60
+Microsoft SQL Server 2008 Management Studio10.3.5500.0
+PreEmptive Analytics Visual Studio Components1.0.2180.1
+Microsoft Portable Library Multi-Targeting Pack Language Pack - rus11.0.50709.17929
+Microsoft Visual Studio Team Foundation Server 2012 Storyboarding11.0.50727
+Microsoft SQL Server 2008 RsFx Driver10.3.5500.0
+Microsoft Visual C++ 2012 Extended Libraries11.0.50727
+Microsoft SQL Server 2008 Management Studio10.3.5500.0
+Microsoft SQL Server 2012 Transact-SQL ScriptDom 11.0.2100.60
+Microsoft Visual Studio Team Foundation Server 2012 Object Model11.0.50727
+Microsoft Visual Studio Ultimate 2012 XAML UI Designer rus Resources11.0.50727
+Microsoft Help Viewer 2.02.0.50727
+Microsoft Visual Studio Premium 2012 - RUS11.0.50727
+Системные типы Microsoft SQL Server System CLR Types10.50.1600.1
+ Tools for .Net 3.5 - RUS Lang Pack3.11.50727
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.6103011.0.61030
+Sql Server Customer Experience Improvement Program10.3.5500.0
+Microsoft SQL Server 2008 Database Engine Services10.3.5500.0
+Microsoft SQL Server 2008 Integration Services10.3.5500.0
+Microsoft Visual Studio 2008 Shell (integrated mode) - RUS9.0.30729
+Microsoft Visual Studio Tools for Applications 2.0 - ENU9.0.30729
+Служба языка T-SQL Microsoft SQL Server 2012 11.0.2100.60
+Microsoft SQL Server 2008 Client Tools10.3.5500.0
+Средства работы с запросами SQL Server Compact 3.5 SP1 (рус.)3.5.5692.0
+Microsoft NuGet - Visual Studio 20122.0.30625.9003
+Microsoft Visual Studio 2012 IntelliTraceLoc11.0.50727
+Microsoft Visual C++ 2012 Compilers - RUS Resources11.0.50727
+Microsoft Visual Studio Ultimate 2012 - RUS11.0.50727
+Microsoft SQL Server 2008 Setup Support Files 10.3.5538.0
+Microsoft SQL Server 2008 Analysis Services10.3.5500.0
+Windows App Certification Kit Native Components8.59.25584
+Microsoft Silverlight5.1.41212.0
+WCF Data Services Tools for Microsoft Visual Studio 20125.0.50710.0
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.6103011.0.61030
+Microsoft .NET Framework 1.11.1.4322
+Microsoft SQL Server 2012 Data-Tier App Framework 11.0.2316.0
+Visual Studio Extensions for Windows Library for JavaScript1.0.8514.0
+Электр. документация по Microsoft SQL Server 2008 (на рус. яз.)10.0.1600.22
+WCF Data Services 5.0 (for OData v3) RUS Language Pack5.0.50628.0
+Microsoft Visual Studio 2012 Shell (Minimum)11.0.50727
+Microsoft Visual Studio 2010 Tools for Office Runtime (x86) Language Pack - RUS10.0.50903
+Microsoft .NET Framework 4.5 SDK - русский языковой пакет4.5.50709
+Microsoft Visual Studio 2012 IntelliTrace Front End x8611.0.50727
+Microsoft SQL Server 2008 BI Development Studio10.3.5500.0
+32 Bit HP CIO Components Installer16.1.1
+Java Auto Updater2.8.73.2
+WCF Data Services 5.0 (for OData v3) Primary Components5.0.50628.0
+Microsoft SQL Server 2008 Analysis Services10.3.5500.0
+Mathcad 15 M01015.0.1.0
+Microsoft Web Deploy dbSqlPackage Provider - RUS10.3.20225.0
+Языковой пакет Dotfuscator and Analytics Community Edition5.5.4521.29298
+Средства сбора данных о производительности Microsoft Visual Studio 2012 - RUS11.0.50727
+Microsoft SQL Server 2008 BI Development Studio10.3.5500.0
+Microsoft SQL Server 2008 Client Tools10.3.5500.0
+Windows Software Development Kit for Windows Store Apps8.59.25584
