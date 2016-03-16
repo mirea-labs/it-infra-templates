@@ -1,0 +1,372 @@
+Сервер сценариев Windows (Microsoft R) версия 5.8
+Copyright (C) Корпорация Майкрософт 1996-2006, все права защищены.
+
+Количество процессоров: 1
+Объем оперативной памяти: 1024 мбайт
+Сетевое имя комьютера: A4
+Версия ОС: Майкрософт Windows 8.1 Профессиональная 32-разрядная
+
+Название раздела: C:
+Полный объем раздела: 79,9999961853027 гбайт
+Свободный объем раздела: 23,881721496582 гбайт
+Название раздела: E:
+Полный объем раздела: 152,883785247803 гбайт
+Свободный объем раздела: 149,256267547607 гбайт
+
+Перечень оборудования:
+Системная плата
+Системная плата
+Ресурсы системной платы
+Ресурсы системной платы
+Стандартный контроллер гибких дисков
+ATA Channel 0
+ATA Channel 1
+Высокоточный таймер событий
+Корневая очередь печати
+A2: Admin:
+Расширенный хост-контроллер USB для семейства Intel(R) ICH10 - 3A3C
+A49: Преподаватель:
+Универсальный том
+Диспетчер томов
+USB-устройство ввода
+Контроллер SMBus семейства Intel(R) ICH10 - 3A30
+Цифровое аудио (S/PDIF) (Устройство с поддержкой High Definition Audio)
+CMOS и часы
+Базовый видеодрайвер (Майкрософт)
+Универсальный хост-контроллер USB для семейства Intel(R) ICH10 - 3A38
+storage
+Программируемый контроллер прерываний
+Стандартная клавиатура PS/2
+Шина адаптера IPv4 IPv6 (Майкрософт)
+Универсальный том
+Корневой USB-концентратор
+Teredo Tunneling Pseudo-Interface
+VirtualBox Host-Only Ethernet Adapter
+UMBus перечислитель
+A34: Admin:
+A49: Студент:
+A50: Студент:
+A47: Студент:
+A61: Pavel Krivtsov:
+А6: Админ:
+Корневой порт PCI Express 6 семейства Intel(R) ICH10 - 3A4A
+ATK0110 ACPI UTILITY
+Корневой USB-концентратор
+Корневой USB-концентратор
+Универсальный хост-контроллер USB для семейства Intel(R) ICH10 - 3A35
+Перечислитель композитной шины
+Перечислитель виртуальных дисков (Майкрософт)
+Контроллер прямого доступа к памяти
+A48: Student:
+\\server214\HP-LaserJet-P2055
+Адаптер Microsoft ISATAP
+Корневой USB-концентратор
+Контроллер дискового пространства (Майкрософт)
+Корневой USB-концентратор
+Микрофон (Устройство с поддержкой High Definition Audio)
+Последовательный порт (COM1)
+Сетевой адаптер с отладкой ядра (Майкрософт)
+Контроллер LPC-интерфейса Intel(R) ICH10 - 3A18
+Универсальная теневая копия тома
+Универсальная теневая копия тома
+Универсальная теневая копия тома
+A48: Гость:
+Контроллер семейства Realtek PCIe GBE - VirtualBox Bridged Networking Driver Miniport
+Корневой USB-концентратор
+Intel(R) G45/G43 Express Chipset (Microsoft Corporation - WDDM 1.1)
+A61: transf:
+ST3250318AS ATA Device
+UMBus перечислитель корневой шины
+Арифметический сопроцессор
+ATA Channel 0
+ATA Channel 1
+Микрофон (Устройство с поддержкой High Definition Audio)
+Стандартный двухканальный контроллер PCI IDE
+Контроллер Intel(R) 4 Series Chipset Processor to I/O - 2E20
+Optiarc DVD RW AD-5260S ATA Device
+Microsoft Device Association Root Enumerator
+ACPI x86-based PC
+PCI Express Root Complex
+Универсальный хост-контроллер USB для семейства Intel(R) ICH10 - 3A37
+Корневой порт PCI Express 1 семейства Intel(R) ICH10 - 3A40
+A2: Студент:
+Универсальный монитор PnP
+Microsoft ACPI-совместимая система
+null
+Базовый драйвер отрисовки (Майкрософт)
+Корневой порт PCI Express 5 семейства Intel(R) ICH10 - 3A48
+A47: Student:
+Intel(R) 82801 PCI мост - 244E
+Встроенный динамик
+Intel(R) 82802 Firmware концентратор
+A49: Админ:
+Дисковод
+Логический интерфейс порта принтера
+Универсальный хост-контроллер USB для семейства Intel(R) ICH10 - 3A34
+Фиксированная функциональная кнопка ACPI
+A47: Админ:
+Inventec PCIe GBE Family Controller
+Ресурсы системной платы
+Ресурсы системной платы
+Ресурсы системной платы
+Лин. вход (Устройство с поддержкой High Definition Audio)
+Стандартный двухканальный контроллер PCI IDE
+Системный таймер
+Корневой USB-концентратор
+Microsoft Visual Studio Location Simulator Sensor
+Intel(R) G45/G43 Express Chipset (Microsoft Corporation - WDDM 1.1)
+A48: Админ:
+ATA Channel 0
+ATA Channel 1
+Кнопка питания ACPI
+A50: Админ:
+A49: Student:
+Универсальный хост-контроллер USB для семейства Intel(R) ICH10 - 3A39
+A50: Student:
+Корневой USB-концентратор
+Перечислитель виртуальных сетевых адаптеров NDIS
+HID-совместимая мышь
+A34: Студент:
+Расширенный хост-контроллер USB для семейства Intel(R) ICH10 - 3A3A
+Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz
+Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz
+ECP-порт принтера (LPT1)
+Универсальный хост-контроллер USB для семейства Intel(R) ICH10 - 3A36
+Fax
+Драйвер Microsoft System Management BIOS
+Microsoft XPS Document Writer
+Контроллер High Definition Audio (Microsoft)
+Устройство с поддержкой High Definition Audio
+A48: Студент:
+Перечислитель программных устройств Plug and Play
+Шина перенаправителя устройств удаленных рабочих столов
+Стандартный двухканальный контроллер PCI IDE
+
+Перечень сетевых папок машины:
+print$
+Users
+
+Список принтеров:
+NPI6A9D4D (HP LaserJet Pro MFP M225rdn)
+Microsoft XPS Document Writer
+Fax
+\\server214\HP-LaserJet-P2055
+
+Список установленного ПО:
+'PTC Places' Namespace Shell Extension
+Microsoft Office Standard 2007
+Microsoft Office 2003 Web Components
+Microsoft Office Access 2007
+Microsoft Office Access MUI (Russian) 2007
+Microsoft Office Excel MUI (Russian) 2007
+Microsoft Office PowerPoint MUI (Russian) 2007
+Microsoft Office Outlook MUI (Russian) 2007
+Microsoft Office Word MUI (Russian) 2007
+Microsoft Office Proofing (Russian) 2007
+Microsoft Office Shared MUI (Russian) 2007
+Microsoft Office Proof (Ukrainian) 2007
+Microsoft Office Proof (German) 2007
+Microsoft Office Proof (English) 2007
+Microsoft Office Proof (Russian) 2007
+Microsoft Application Error Reporting
+Microsoft Office Visio MUI (Russian) 2010
+Microsoft Office File Validation Add-In
+Microsoft Office Proofing (Russian) 2010
+Microsoft Office Shared MUI (Russian) 2010
+Microsoft Office Proof (Ukrainian) 2010
+Microsoft Office Proof (German) 2010
+Microsoft Office Proof (English) 2010
+Microsoft Office Proof (Russian) 2010
+Microsoft Office Visio 2010
+Microsoft Visual Studio Ultimate 2012 XAML UI Designer Core
+Microsoft ASP.NET MVC 4 - Visual Studio 2012 Tools
+Microsoft Visual Studio 2010 Office Developer Tools (x86)
+Языковой пакет для раскадровки Microsoft Visual Studio Team Foundation Server 2012 - RUS
+Утилиты командной строки для Microsoft SQL Server 2012
+SkypeT 7.3
+Microsoft ASP.NET MVC 4 Runtime - RUS
+Microsoft Visual Studio Tools for Applications 2.0 Language Pack - RUS
+Microsoft Visual C++ 2010 Redistributable - x86 10.0.40219
+Microsoft Visual Studio Premium 2012
+Microsoft ASP.NET MVC 4 - Visual Studio 2012 Tools - RUS
+Microsoft SQL Server Data Tools - RUS (11.1.20627.00)
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022 False
+Microsoft SQL Server 2008 Reporting Services
+Microsoft SQL Server 2008 Full text search
+WCF Data Services Tools for Visual Studio 11 RUS Language Pack
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.50727
+Microsoft SQL Server 2008 Common Files
+Microsoft Visual C++ 2012 Compilers
+Microsoft ASP.NET MVC 3
+Microsoft SQL Server 2008 Database Engine Services
+Microsoft Visual C++ 2012 x86 Debug Runtime - 11.0.50727
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4048 False
+Mathcad 13
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.50727
+Ресурсы оболочки Microsoft Visual Studio 2012 Shell (минимальной)
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.59193 False
+Microsoft Visual Studio Team Foundation Server 2012 Team Explorer
+Microsoft ASP.NET Web Pages - Visual Studio 2012 Tools - RUS
+Microsoft .NET Framework 4.5 Multi-Targeting Pack
+Microsoft Visual Studio 2010 Tools for Office Runtime (x86)
+Blend for Visual Studio 2012
+Microsoft Visual Studio Ultimate 2012
+Microsoft SQL Server VSS Writer
+Языковой пакет для объектной модели Microsoft Visual Studio Team Foundation Server 2012 - RUS
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.60610 False
+Microsoft SQL Server 2008 Policies
+Microsoft Visual Studio 2010 Office Developer Tools (x86) Language Pack - RUS
+Microsoft Visual Studio 2012 IntelliTrace Core x86
+Microsoft ASP.NET MVC 3 - RUS
+Microsoft Portable Library Multi-Targeting Pack
+CA ERwin Process Modeler r7.3
+Microsoft Silverlight 5 SDK - RUS
+Microsoft ASP.NET Web Pages - Visual Studio 2012 Tools
+Microsoft LightSwitch для Visual Studio 2012 CoreRes - RUS
+PreEmptive Analytics Client Russian Language Pack
+Adem 8.1 CAD/CAM/CAPP
+Microsoft SQL Server 2008 Reporting Services
+Microsoft SQL Server 2008 Native Client
+Средства сбора данных о производительности Microsoft Visual Studio 2012
+Microsoft ASP.NET MVC 4 Runtime
+Microsoft Visual Studio Professional 2012 - RUS
+MSXML 4.0 SP2 Parser and SDK
+Microsoft Visual C++ 2012 Microsoft Foundation Class Libraries
+Microsoft Visual Studio 2012 IntelliTraceFrontEndLoc
+Microsoft Silverlight 4 SDK - русский
+Microsoft SQL Server Data Tools Build Utilities - RUS (11.1.20627.00)
+Microsoft Sync Framework Runtime v1.0 (x86) ru
+Windows Software Development Kit for Windows Store Apps DirectX x86 Remote
+ Tools for .Net 3.5
+Microsoft Sync Services for ADO.NET v2.0 (x86) ru
+CA AllFusion ERwin Data Modeler r7
+Microsoft ASP.NET Web Pages 2 Runtime
+Microsoft ASP.NET Web Pages 2 - Visual Studio 2012 Tools - RUS
+Adobe Refresh Manager
+Adobe Acrobat Reader DC - Russian
+Microsoft SQL Server 2012 Transact-SQL Compiler Service 
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.51106 False
+Собственный клиент Microsoft SQL Server 2012 
+Microsoft SQL Server 2008 Database Engine Shared
+Microsoft Report Viewer Add-On для Visual Studio 2012
+IIS 8.0 Express
+Microsoft SQL Server 2012 Management Objects 
+Oracle VM VirtualBox 4.3.6
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.5570 False
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+Dotfuscator and Analytics Community Edition
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022.0 False
+LocalESPCui for ru-ru
+Microsoft SQL Server 2008 Database Engine Shared
+CA AllFusion Process Modeler r7
+Windows Software Development Kit DirectX x86 Remote
+Microsoft ASP.NET Web Pages 2 - Visual Studio 2012 Tools
+Языковой пакет для Microsoft Visual Studio Team Foundation Server 2012 Team Explorer - RUS
+Entity Framework Designer для Visual Studio 2012 - RUS
+Ресурсы Microsoft Visual Studio 2012 Devenv
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.60610 False
+Microsoft SQL Server 2008 Browser
+Языковой пакет для средства просмотра справки (Microsoft) 2.0 - RUS
+Microsoft Visual Studio 2012 Devenv
+Microsoft .NET Framework 4 Multi-Targeting Pack
+Microsoft Visual Studio Professional 2012
+КОМПАС-3D LT V12
+Microsoft System CLR Types для SQL Server 2012
+Windows Runtime Intellisense Content - ru-ru
+Microsoft SQL Server 2008 Common Files
+Microsoft .NET Framework 4.5 SDK
+Google Update Helper
+Microsoft Web Platform Installer 4.0
+Microsoft LightSwitch for Visual Studio 2012 Core
+Microsoft SQL Server Compact 4.0 SP1 RUS
+WCF RIA Services V1.0 SP2
+Google Update Helper
+Microsoft ASP.NET MVC 3 - Visual Studio 2012 Tools Update
+LocalESPC
+Microsoft Visual C++ 2012 Core Libraries
+Языковой пакет для средств разработки Microsoft Visual Studio 2012 для SharePoint - RUS
+Подготовка Microsoft Visual Studio 2012
+Windows Software Development Kit
+Средства Microsoft Visual Studio 2012 с пакетом обновления 1 (SP1) для SQL Server Compact 4.0 RUS
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.58299 False
+Microsoft Report Viewer Add-On for Visual Studio 2012
+Microsoft Visual Studio 2012 Shell (Minimum) Interop Assemblies
+Microsoft SQL Server 2008 Integration Services
+Windows App Certification Kit x86
+Microsoft SQL Server 2012 Express LocalDB 
+Microsoft SQL Server 2008 Management Studio
+PreEmptive Analytics Visual Studio Components
+Microsoft Visual Studio 2012 SharePoint Developer Tools
+Microsoft Portable Library Multi-Targeting Pack Language Pack - rus
+Microsoft Visual Studio Team Foundation Server 2012 Storyboarding
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.56336 False
+Microsoft SQL Server 2008 RsFx Driver
+Blend for Visual Studio 2012 RUS resources
+Microsoft Visual C++ 2012 Extended Libraries
+Microsoft SQL Server 2008 Management Studio
+Microsoft SQL Server 2012 Transact-SQL ScriptDom 
+Microsoft Visual Studio Team Foundation Server 2012 Object Model
+Microsoft Visual Studio Ultimate 2012 XAML UI Designer rus Resources
+Microsoft Help Viewer 2.0
+Microsoft Visual Studio Premium 2012 - RUS
+Системные типы Microsoft SQL Server System CLR Types
+Microsoft Web Developer Tools - Visual Studio 2012 - RUS
+ Tools for .Net 3.5 - RUS Lang Pack
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+Sql Server Customer Experience Improvement Program
+Microsoft SQL Server 2008 Database Engine Services
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.51106 False
+Microsoft SQL Server 2008 Integration Services
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.61001
+Microsoft Visual Studio 2008 Shell (integrated mode) - RUS
+Microsoft Visual Studio Tools for Applications 2.0 - ENU
+Microsoft ASP.NET Web Pages 2 Runtime - RUS
+Служба языка T-SQL Microsoft SQL Server 2012 
+Microsoft SQL Server 2008 Client Tools
+Microsoft ASP.NET MVC 3 - Visual Studio 2012 Tools Update - RUS
+Средства работы с запросами SQL Server Compact 3.5 SP1 (рус.)
+Microsoft NuGet - Visual Studio 2012
+Microsoft Visual Studio 2012 IntelliTraceLoc
+Microsoft Visual C++ 2012 Compilers - RUS Resources
+Microsoft Visual Studio Ultimate 2012 - RUS
+Microsoft SQL Server 2008 Setup Support Files 
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148 False
+Microsoft Visual C++ 2010 Redistributable - x86 10.0.30319 False
+Microsoft SQL Server 2008 Analysis Services
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17 False
+Windows App Certification Kit Native Components
+Microsoft Silverlight
+Необходимые компоненты для SSDT 
+WCF Data Services Tools for Microsoft Visual Studio 2012
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30411 False
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+Microsoft .NET Framework 1.1
+Microsoft SQL Server 2012 Data-Tier App Framework 
+Visual Studio Extensions for Windows Library for JavaScript
+Электр. документация по Microsoft SQL Server 2008 (на рус. яз.)
+WCF Data Services 5.0 (for OData v3) RUS Language Pack
+Microsoft Visual Studio 2012 Shell (Minimum)
+Microsoft Web Deploy 3.0
+Microsoft Visual Studio 2010 Tools for Office Runtime (x86) Language Pack - RUS
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.51011 False
+Microsoft .NET Framework 4.5 SDK - русский языковой пакет
+Microsoft ASP.NET Web Pages
+Microsoft ASP.NET Web Pages - RUS
+Microsoft Visual Studio 2012 IntelliTrace Front End x86
+Microsoft SQL Server 2008 BI Development Studio
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729 False
+32 Bit HP CIO Components Installer
+Microsoft Web Developer Tools - Visual Studio 2012
+WCF Data Services 5.0 (for OData v3) Primary Components
+Microsoft SQL Server 2008 Analysis Services
+Mathcad 15 M010
+Microsoft Web Deploy dbSqlPackage Provider - RUS
+Microsoft Visual C++ 2005 Redistributable - x86 8.0.50727.42 False
+Языковой пакет Dotfuscator and Analytics Community Edition
+Средства сбора данных о производительности Microsoft Visual Studio 2012 - RUS
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022.218 False
+Microsoft SQL Server 2008 BI Development Studio
+Microsoft SQL Server 2008 Client Tools
+Windows Software Development Kit for Windows Store Apps
